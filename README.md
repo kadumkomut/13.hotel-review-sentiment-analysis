@@ -2,6 +2,8 @@
 
 The project is a sentiment analyser which takes hotel reviews as an input and produces a sentiment of positive or negative.
 
+![](sentimentanalysis.gif)
+
 ## How to run the application
 
 - pip install -r requirements.txt 
